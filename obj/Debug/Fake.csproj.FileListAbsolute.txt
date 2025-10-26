@@ -1,0 +1,10 @@
+C:\Users\Huynh Gia Computer\source\repos\Fake\bin\Debug\Fake.exe.config
+C:\Users\Huynh Gia Computer\source\repos\Fake\bin\Debug\Fake.exe
+C:\Users\Huynh Gia Computer\source\repos\Fake\bin\Debug\Fake.pdb
+C:\Users\Huynh Gia Computer\source\repos\Fake\obj\Debug\Fake.csproj.AssemblyReference.cache
+C:\Users\Huynh Gia Computer\source\repos\Fake\obj\Debug\Fake.Form1.resources
+C:\Users\Huynh Gia Computer\source\repos\Fake\obj\Debug\Fake.Properties.Resources.resources
+C:\Users\Huynh Gia Computer\source\repos\Fake\obj\Debug\Fake.csproj.GenerateResource.cache
+C:\Users\Huynh Gia Computer\source\repos\Fake\obj\Debug\Fake.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Gia Computer\source\repos\Fake\obj\Debug\Fake.exe
+C:\Users\Huynh Gia Computer\source\repos\Fake\obj\Debug\Fake.pdb
