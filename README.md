@@ -70,7 +70,7 @@ Hoặc biên dịch bằng Visual Studio / Rider, chạy hàm:
 
 RenderBill.Render();
 
-3️⃣ Kết quả
+### 3️⃣ Kết quả
 
 Ảnh đầu ra được lưu tại:
 
@@ -97,12 +97,12 @@ DrawBankIcon()	Vẽ logo ngân hàng
 Bill MBBank	Bill BDSD
 
 	
-🧑‍💻 Tác giả
+### 🧑‍💻 Tác giả
 
 DuBai Bảo
 Chuyển đổi & tối ưu từ bản gốc PHP → C#
 Dành cho mục đích nghiên cứu, học tập, hoặc dựng demo UI ngân hàng.
 
-⚖️ Giấy phép
+### ⚖️ Giấy phép
 
 MIT License — sử dụng tự do, giữ nguyên credit tác giả.
